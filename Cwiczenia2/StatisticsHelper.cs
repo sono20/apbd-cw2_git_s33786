@@ -2,9 +2,9 @@
 
 public class StatisticsHelper
 {
-    private double number;
+    private int number;
 
-    public StatisticsHelper(double number)
+    public StatisticsHelper(int number)
     {
         this.number = number;
     }
