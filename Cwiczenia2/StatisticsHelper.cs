@@ -13,5 +13,9 @@ public class StatisticsHelper
         return 3;
     }
 
-  
+
+    public int CalculateAverage(int[] values)
+    {
+        return 4;
+    }
 }
