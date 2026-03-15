@@ -26,6 +26,6 @@ public class StatisticsHelper
 
     public double CalculateMin(int[] values)
     {
-        return 6;
+        return 6.643;
     }
 }
