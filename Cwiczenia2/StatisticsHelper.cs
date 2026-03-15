@@ -4,9 +4,9 @@ public class StatisticsHelper
 {
     private double numer;
 
-    public StatisticsHelper(double number)
+    public StatisticsHelper(double numer)
     {
-        this.numer = number;
+        this.numer = numer;
     }
     public static int max(double a, double b)
     {
