@@ -8,7 +8,7 @@ public class StatisticsHelper
     {
         this.number = number;
     }
-    public static int max(int a, int b)
+    public static int max(double a, double b)
     {
         return 3;
     }
