@@ -3,6 +3,11 @@
 public class StatisticsHelper
 {
     private double number;
+
+    public StatisticsHelper(double number)
+    {
+        this.number = number;
+    }
     public static int max(int a, int b)
     {
         return  a > b ? a : b;
