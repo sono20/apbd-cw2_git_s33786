@@ -2,7 +2,6 @@
 
 public class StatisticsHelper
 {
-    // Wybraliśmy double, aby klasa była bardziej uniwersalna (świadomy wybór)
     private double numer;
 
     public StatisticsHelper(double numer)
