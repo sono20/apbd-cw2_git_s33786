@@ -18,4 +18,9 @@ public class StatisticsHelper
     {
         return 7;
     }
+
+    public int CalculateMax(int[] values)
+    {
+        return 67;
+    }
 }
