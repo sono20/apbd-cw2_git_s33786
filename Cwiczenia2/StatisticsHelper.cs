@@ -2,11 +2,11 @@
 
 public class StatisticsHelper
 {
-    private double number;
+    private double numer;
 
-    public StatisticsHelper(double number)
+    public StatisticsHelper(double numer)
     {
-        this.number = number;
+        this.numer = numer;
     }
     public static int max(double a, double b)
     {
